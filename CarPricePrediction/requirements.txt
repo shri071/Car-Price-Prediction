@@ -1,4 +1,4 @@
-
+python==3.8.5
 alabaster==0.7.12
 appdirs==1.4.4
 argh==0.26.2
@@ -41,4 +41,5 @@ webencodings==0.5.1
 Werkzeug==2.0.1
 wincertstore==0.2
 wrapt==1.12.1
+pywin32==227
 
